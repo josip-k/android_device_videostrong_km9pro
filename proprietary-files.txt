@@ -1,6 +1,9 @@
 ## All blobs from this list, unless pinned and noted as otherwise,
 ## are from KM9PRO-user 10 QT V1.20200519 release-keys release-keys.
 
+## DRM
+vendor/lib/liboemcrypto.so
+
 ## TEE Applets
 vendor/lib/teetz/e043cde0-61d0-11e5-9c260002a5d5c51b.ta
 vendor/lib/teetz/8efb1e1c-37e5-4326-a5d68c33726c7d57.ta
