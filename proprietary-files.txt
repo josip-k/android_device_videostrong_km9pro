@@ -3,6 +3,8 @@
 
 ## DRM
 vendor/lib/liboemcrypto.so
+# From 12 STT1.211025.001.Z4 7928920 release-keys
+vendor/lib/libsecmem.so|291be9306e69f3b53c2c3526e128c1c283a15ce1
 
 ## TEE Applets
 vendor/lib/teetz/e043cde0-61d0-11e5-9c260002a5d5c51b.ta
