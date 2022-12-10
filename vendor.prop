@@ -11,3 +11,6 @@ vendor.media.support.dolbyvision=true
 
 ## SOC
 ro.soc.model=AMLS905X2
+
+## Wi-Fi
+vendor.bcm_wifi=rtl
