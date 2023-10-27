@@ -10,6 +10,9 @@ $(call inherit-product, vendor/videostrong/km9pro/km9pro-vendor.mk)
 BOARD_HAVE_BLUETOOTH_RTK_TV := true
 include hardware/realtek/rtkbt/rtkbt.mk
 
+PRODUCT_PACKAGES += \
+    Km9ProBluetoothOverlay \
+
 ## GMS
 ifeq ($(WITH_GMS),true)
 GMS_MAKEFILE=gms_minimal.mk
@@ -22,10 +25,6 @@ PRODUCT_COPY_FILES += \
 ## Kernel Modules
 PRODUCT_PACKAGES += \
     8821cs
-
-## Overlays
-DEVICE_PACKAGE_OVERLAYS += \
-    $(LOCAL_PATH)/overlay
 
 ## Inherit from the common tree product makefile
 $(call inherit-product, device/amlogic/g12-common/g12.mk)
