@@ -1,0 +1,164 @@
+key 399   GRAVE
+key 1     BACK
+key 2     1
+key 3     2
+key 4     3
+key 5     4
+key 6     5
+key 7     6
+key 8     7
+key 9     8
+key 10    9
+key 11    0
+key 15    BACK
+key 158   BACK
+key 58    SOFT_RIGHT
+key 107   ENDCALL
+key 62    GUIDE
+key 139    MENU
+key 125    MENU
+key 60    NOTIFICATION
+key 127   SEARCH
+key 217   ASSIST
+key 228   POUND
+key 227   STAR
+key 231   CALL
+key 61    CALL
+key 97    DPAD_CENTER
+key 232   DPAD_CENTER
+key 353   DPAD_CENTER
+key 108   DPAD_DOWN
+key 103   DPAD_UP
+key 102   HOME
+key 105   DPAD_LEFT
+key 106   DPAD_RIGHT
+key 115   VOLUME_UP
+key 114   VOLUME_DOWN
+key 104   PAGE_DOWN
+key 109   PAGE_UP
+key 212   CAMERA
+
+#key 16    Q
+#key 17    W
+#key 18    E
+#key 19    R
+#key 20    T
+#key 21    Y
+#key 22    U
+#key 23    I
+#key 24    O
+#key 25    P
+#key 26    LEFT_BRACKET
+#key 27    RIGHT_BRACKET
+#key 43    BACKSLASH
+
+#key 30    A
+#key 31    S
+#key 32    D
+#key 33    F
+#key 34    G
+#key 35    H
+#key 36    J
+#key 37    K
+#key 38    L
+#key 39    SEMICOLON
+#key 40    APOSTROPHE
+key 14    DEL
+
+#key 44    Z
+#key 45    X
+#key 46    C
+#key 47    V
+#key 48    B
+#key 49    N
+#key 50    M
+#key 51    COMMA
+#key 52    PERIOD
+#key 53    SLASH
+#key 28    ENTER
+
+key 75		F3
+key 76		F4
+key 77		F5
+key 64		F6
+key 65		F7
+key 66		F8
+key 67		F9
+key 68		F10
+key 69		F11
+
+key 56    ALT_LEFT
+key 100   ALT_RIGHT
+key 42    SHIFT_LEFT
+key 54    SHIFT_RIGHT
+#key 15    TAB
+key 57    SPACE
+key 70    EXPLORER
+key 155   ENVELOPE
+
+key 12    MINUS
+key 13    EQUALS
+key 215   AT
+key 119   MEDIA_PLAY_PAUSE
+key 122   MEDIA_PREVIOUS
+key 123   MEDIA_NEXT
+key 120   MEDIA_FAST_FORWARD
+key 121   MEDIA_REWIND
+key 116   POWER
+#key 116   POWER	WAKE
+key 113   VOLUME_MUTE
+key 128   MEDIA_STOP
+#STEM_1  map  INFO for netflix buttom
+#key 153   STEM_1
+key 150   F10
+#key 152   TV_REPEAT
+#key 154   TV_SHORTCUTKEY_DISPAYMODE
+key 159   CAPTIONS
+key 156   MEDIA_AUDIO_TRACK
+#key 137   TV_SWITCH
+#TEST USE
+key 166	  TV_INPUT_HDMI_1
+key 167	  TV_INPUT_HDMI_2
+key 168	  TV_INPUT_HDMI_3
+key 169	  TV_INPUT_HDMI_4
+#APPS
+key 170   TV_INPUT_VGA_1
+#DTV KEY
+key 237   TV
+key 238   TV_INPUT_COMPOSITE_1
+key 239   TV_INPUT_COMPOSITE_2
+key 240   TV_INPUT_COMPONENT_1
+key 241   STEM_1
+
+#DTV RECORD/PVR
+key 59 SEMICOLON
+#DTV EPG
+key 137   GUIDE
+#DTV INFO
+key 130   INFO
+#DTV RED
+key 134   PROG_RED
+#DTV GREEN
+key 133   PROG_GREEN
+#DTV YELLOW
+key 131   PROG_YELLOW
+#DTV BLUE
+key 140   PROG_BLUE
+
+#Mouse, use in other
+#key 141      xxx
+
+#DTV SUBTITLE
+key 135   TV_SATELLITE
+#DTV AUDIO
+key 136   TV_SATELLITE_BS
+#DTV FAV
+key 213   TV_SATELLITE_CS
+key 160   TV_AUDIO_DESCRIPTION
+key 161   TV_AUDIO_DESCRIPTION_MIX_UP
+key 162   TV_AUDIO_DESCRIPTION_MIX_DOWN
+key 163   TV_ZOOM_MODE
+# open TvSetting
+key 250 SETTINGS
+# dot "."
+key 83  NUMPAD_DOT
