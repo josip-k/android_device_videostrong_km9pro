@@ -13,6 +13,9 @@ TARGET_BOOTLOADER_BOARD_NAME := km9pro
 TARGET_DTB_NAME := g12a_s905x2_u212_sti6130d3x0
 TARGET_DTBO_NAME := sti6140d350_overlay
 
+## Properties
+TARGET_VENDOR_PROP += $(DEVICE_PATH)/vendor.prop
+
 ## Include the common tree BoardConfig makefile
 include device/amlogic/g12-common/BoardConfigCommon.mk
 
